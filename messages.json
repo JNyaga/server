@@ -1,0 +1,337 @@
+{
+  "messages": [
+    {
+      "text": "Hello!",
+      "name": "nevodavid",
+      "id": "abcd01"
+    },
+    {
+      "text": "Welcome to my chat application!💃🏻",
+      "name": "nevodavid",
+      "id": "defg02"
+    },
+    {
+      "text": "You can start chatting!📲",
+      "name": "nevodavid",
+      "id": "hijk03"
+    },
+    {
+      "text": "jeoel",
+      "name": "olega_riya",
+      "id": "15DON3weBv1-cQBNAAAD0.3572575951505823",
+      "socketID": "15DON3weBv1-cQBNAAAD"
+    },
+    {
+      "text": "kks;s",
+      "name": "olega_riya",
+      "id": "eevDuYOWP86mbvrzAAAB0.7362044681770494",
+      "socketID": "eevDuYOWP86mbvrzAAAB"
+    },
+    {
+      "text": "jess",
+      "name": "olega_riya",
+      "id": "U0HYlbXr3Y8pMukwAAAF0.6426919101474571",
+      "socketID": "U0HYlbXr3Y8pMukwAAAF"
+    },
+    {
+      "text": "kelr",
+      "name": "olega_riya",
+      "id": "1SPmxRl8WIQya3ZpAAAF0.39457815344537384",
+      "socketID": "1SPmxRl8WIQya3ZpAAAF"
+    },
+    {
+      "text": "jsksk",
+      "name": "olega_riya",
+      "id": "FTiYKc1PBNf96b8FAAAF0.3655617241033424",
+      "socketID": "FTiYKc1PBNf96b8FAAAF"
+    },
+    {
+      "text": "ks",
+      "name": "olega_riya",
+      "id": "H0B0399p6yQStNyuAAAB0.22747637225499617",
+      "socketID": "H0B0399p6yQStNyuAAAB"
+    },
+    {
+      "text": "ksk",
+      "name": "olega_riya",
+      "id": "Dnc0_eQDau9DXhMYAAAD0.5602193501171706",
+      "socketID": "Dnc0_eQDau9DXhMYAAAD"
+    },
+    {
+      "text": "hello",
+      "name": "joel",
+      "id": "ztddZ0QnMe9h_ReuAAAB0.9362517149600433",
+      "socketID": "ztddZ0QnMe9h_ReuAAAB"
+    },
+    {
+      "text": "hello",
+      "name": "joel",
+      "id": "xCbDm7saLL2HKzBuAAAB0.45494162603759936",
+      "socketID": "xCbDm7saLL2HKzBuAAAB"
+    },
+    {
+      "text": "j",
+      "name": "joel",
+      "id": "lEeFP4aQ9Kv7iF1cAAAB0.17034787936893392",
+      "socketID": "lEeFP4aQ9Kv7iF1cAAAB"
+    },
+    {
+      "text": "hey",
+      "name": "joel",
+      "id": "VsxtofygCUWrjjbaAAAD0.3705572051350725",
+      "socketID": "VsxtofygCUWrjjbaAAAD"
+    },
+    {
+      "text": "jef",
+      "name": "joel",
+      "id": "Vd8PgF09OHmzvGrvAAAF0.3861030706189479",
+      "socketID": "Vd8PgF09OHmzvGrvAAAF"
+    },
+    {
+      "text": "h3y",
+      "name": "joel",
+      "id": "YMkl3iCHtISZisRHAAAH0.815167249783467",
+      "socketID": "YMkl3iCHtISZisRHAAAH"
+    },
+    {
+      "text": "hello",
+      "name": "RiyaOlega",
+      "id": "lpKlBD6Bx3SRAkyxAAAD0.9672992956362678",
+      "socketID": "lpKlBD6Bx3SRAkyxAAAD"
+    },
+    {
+      "text": "hello",
+      "name": "RiyaOlega",
+      "id": "AewqU5yEXpIyEV0rAAAJ0.7423734607434245",
+      "socketID": "AewqU5yEXpIyEV0rAAAJ"
+    },
+    {
+      "text": "see me o",
+      "name": "joel",
+      "id": "LiCAtlEZapOcwqonAAAF0.46647453527283345",
+      "socketID": "LiCAtlEZapOcwqonAAAF"
+    },
+    {
+      "text": "I am",
+      "name": "nevodavid",
+      "id": "js6GxLB_ne6N3XRhAAAH0.9518838365901827",
+      "socketID": "js6GxLB_ne6N3XRhAAAH"
+    },
+    {
+      "text": "joel",
+      "name": "nevodavid",
+      "id": "iO-yMryW9l1d-mJUAAAH0.6655004711910026",
+      "socketID": "iO-yMryW9l1d-mJUAAAH"
+    },
+    {
+      "text": "delete",
+      "name": "joel",
+      "id": "Wg2rUn2_c7uTXFc7AAAB0.16611680994185418",
+      "socketID": "Wg2rUn2_c7uTXFc7AAAB"
+    },
+    {
+      "text": "hey",
+      "name": "pulato",
+      "id": "bA2EA0N-E8YE9v1FAAAL0.21224642102484959",
+      "socketID": "bA2EA0N-E8YE9v1FAAAL"
+    },
+    {
+      "text": "Hey there",
+      "name": "neodavid",
+      "id": "erCWKpTBQQCg_pVuAAAH0.9938811930590454",
+      "socketID": "erCWKpTBQQCg_pVuAAAH"
+    },
+    {
+      "text": "hey ",
+      "name": "neodavid",
+      "id": "CD2DymbTdhtWaS1zAAAB0.013353656865236818",
+      "socketID": "CD2DymbTdhtWaS1zAAAB"
+    },
+    {
+      "text": "hey",
+      "name": "neodavid",
+      "id": "ALz0nx_q1FYm7ayVAAAF0.4883393480925988",
+      "socketID": "ALz0nx_q1FYm7ayVAAAF"
+    },
+    {
+      "text": "nosco aramos",
+      "name": "pulato",
+      "id": "4Tzt3OgcqpMowQkOAAAL0.8331686996998866",
+      "socketID": "4Tzt3OgcqpMowQkOAAAL"
+    },
+    {
+      "text": "nosco",
+      "name": "pulato",
+      "id": "13T8zgcdfIG0MZa3AAAF0.035333071300289065",
+      "socketID": "13T8zgcdfIG0MZa3AAAF"
+    },
+    {
+      "text": "hello",
+      "name": "neodavid",
+      "id": "rySth3yUEPP_DoTUAAAD0.4991646464640642",
+      "socketID": "rySth3yUEPP_DoTUAAAD"
+    },
+    {
+      "text": "bunch",
+      "name": "neodavid",
+      "id": "9BCpx-tz-n-nU933AAAB0.14234756910470114",
+      "socketID": "9BCpx-tz-n-nU933AAAB"
+    },
+    {
+      "text": "wolo",
+      "name": "neodavid",
+      "id": "397Q0c1gezHsYrcQAAAF0.8517585383932977",
+      "socketID": "397Q0c1gezHsYrcQAAAF"
+    },
+    {
+      "text": "wolo",
+      "name": "neodavid",
+      "id": "jRApYt0ksosaVv30AAAB0.07406147914993433",
+      "socketID": "jRApYt0ksosaVv30AAAB"
+    },
+    {
+      "text": "danger",
+      "name": "neodavid",
+      "id": "g9SnklscQlf8w_byAAAB0.15197624591445313",
+      "socketID": "g9SnklscQlf8w_byAAAB"
+    },
+    {
+      "text": "reciprocate",
+      "name": "neodavid",
+      "id": "1jhMaBycunqWGmIUAAAD0.9875652904499326",
+      "socketID": "1jhMaBycunqWGmIUAAAD"
+    },
+    {
+      "text": "samson",
+      "name": "neodavid",
+      "id": "JpMg6dUzb9QM5yWAAAAD0.7624104596605443",
+      "socketID": "JpMg6dUzb9QM5yWAAAAD"
+    },
+    {
+      "text": "grace",
+      "name": "neodavid",
+      "id": "H3MWII0mRpzjDe8dAAAL0.755412701653053",
+      "socketID": "H3MWII0mRpzjDe8dAAAL"
+    },
+    {
+      "text": "mercy",
+      "name": "neodavid",
+      "id": "u_Ua_0d0TrkgyCZnAAAB0.6777703976285574",
+      "socketID": "u_Ua_0d0TrkgyCZnAAAB"
+    },
+    {
+      "text": "gracious",
+      "name": "pulato",
+      "id": "Arydj2bER18Ul5-mAAAF0.659169365782124",
+      "socketID": "Arydj2bER18Ul5-mAAAF"
+    },
+    {
+      "text": "nobel",
+      "name": "neodavid",
+      "id": "GP36v01sB-599XoJAAAD0.715264344628951",
+      "socketID": "GP36v01sB-599XoJAAAD"
+    },
+    {
+      "text": "nobel",
+      "name": "pulato",
+      "id": "V_b9Eyv3BN7Hbd4KAAAB0.5266762703301906",
+      "socketID": "V_b9Eyv3BN7Hbd4KAAAB"
+    },
+    {
+      "text": "hello",
+      "name": "neodavid",
+      "id": "pc9DWPGhv5Uf5LZuAAAB0.009134176639059799",
+      "socketID": "pc9DWPGhv5Uf5LZuAAAB"
+    },
+    {
+      "text": "hello",
+      "name": "pulato",
+      "id": "5zmdpKT5SdvZkcFBAAAF0.9490480194444428",
+      "socketID": "5zmdpKT5SdvZkcFBAAAF"
+    },
+    {
+      "text": "daud",
+      "name": "pulato",
+      "id": "DSK3ygrdePsqz0H4AAAH0.3348484349797478",
+      "socketID": "DSK3ygrdePsqz0H4AAAH"
+    },
+    {
+      "text": "sorry",
+      "name": "neodavid",
+      "id": "GiQnfOh-ep5jm_cNAAAB0.8709987118794733",
+      "socketID": "GiQnfOh-ep5jm_cNAAAB"
+    },
+    {
+      "text": "sorry",
+      "name": "neodavid",
+      "id": "Fw3DniEo4Pgp9EMaAAAD0.5656415840098548",
+      "socketID": "Fw3DniEo4Pgp9EMaAAAD"
+    },
+    {
+      "text": "mello",
+      "name": "neodavid",
+      "id": "9-tgh8ucCfGZpE7pAAAD0.8789163292104802",
+      "socketID": "9-tgh8ucCfGZpE7pAAAD"
+    },
+    {
+      "text": "durant",
+      "name": "neodavid",
+      "id": "ZScFOxiv0Ih88mQrAAAJ0.07730284011806998",
+      "socketID": "ZScFOxiv0Ih88mQrAAAJ"
+    },
+    {
+      "text": "doxing",
+      "name": "neodavid",
+      "id": "CTNfSfJC8aB-rcD1AAAD0.5732026966247203",
+      "socketID": "CTNfSfJC8aB-rcD1AAAD"
+    },
+    {
+      "text": "dollado ",
+      "name": "pulato",
+      "id": "nW5Nn__Wr6F2OppGAAAH0.4619261754535491",
+      "socketID": "nW5Nn__Wr6F2OppGAAAH"
+    },
+    {
+      "text": "david",
+      "name": "neodavid",
+      "id": "zREPc3OZBr19TIF0AAAr0.33039454969730353",
+      "socketID": "zREPc3OZBr19TIF0AAAr"
+    },
+    {
+      "text": "graciuos",
+      "name": "neodavid",
+      "id": "IHLl5thn_8U-_EmhAAAD0.18575830637196322",
+      "socketID": "IHLl5thn_8U-_EmhAAAD"
+    },
+    {
+      "text": "pedo stool",
+      "name": "neodavid",
+      "id": "35GQpFga4g3ZPltvAAAB0.9822988741477325",
+      "socketID": "35GQpFga4g3ZPltvAAAB"
+    },
+    {
+      "text": "holy moly",
+      "name": "pulato",
+      "id": "iFDn_4v5uy1akStNAAAJ0.5878705084894305",
+      "socketID": "iFDn_4v5uy1akStNAAAJ"
+    },
+    {
+      "text": "lastly",
+      "name": "pulato",
+      "id": "HK6AOAbtwv0YSWqDAAAH0.6573009914410921",
+      "socketID": "HK6AOAbtwv0YSWqDAAAH"
+    },
+    {
+      "text": "nay",
+      "name": "joel",
+      "id": "Sca5adQn-zNv0Z55AAAr0.20815839794632418",
+      "socketID": "Sca5adQn-zNv0Z55AAAr"
+    },
+    {
+      "text": "ks",
+      "name": "joel",
+      "id": "Tyzyl8odTFwJpmv4AAAB0.38318951081882546",
+      "socketID": "Tyzyl8odTFwJpmv4AAAB"
+    }
+  ]
+}
